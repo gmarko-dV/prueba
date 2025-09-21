@@ -1,4 +1,5 @@
 nombre = "Gianmarco"
 apellido = "Pasco"
 
-print(f"Hola {nombre}")
+saludo = f"Hola {nombre} - {apellido}"
+print(saludo)
